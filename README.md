@@ -1,26 +1,35 @@
-# Steve DiGiambattista Software Engineer Portfolio
+# Software Engineering Portfolio
 
-Hello!  I am a long-time tech professional who attended the General Assembly Software Engineering Immersive Bootcamp to acquire a nfresh set of developer tools such as Javascript, HTML, CSS, React Framework, MongoDB, Mongoose and many others!  This portfolio project is leverage the React material presented in the course.
+Hi, and welcome to my Software Engineer Portfolio Project Repo!  I am a long time tech professional who began their dev career in legacy/enterprise systems (IBM zOS Mainframe) and programming languages such as COBOL, CICS and DB2.  In 2023 I enrolled in a Software Engineering Immersive bootcamp which allowed me to retool my dev skillset and pivot to modern day frameworks and languages such as Express, React, Mongoose, MongoDB, Javascript, Python, HTML, CSS and much more.
 
-# Link to deployed App
-[here]
+This project is built off the React framework, and leverages Javascript as the backbone programming language.  It is representative of the material presented in the SEI bootcamp.
 
-# Technologies Used
 
-- Javascript
+# Production Deployment Link:
+
+- [here](inset netlify link)
+
+
+# Technologies used in this project:
+
 - React Framework
-- HTML
+- Javascript
 - CSS
+- HTML
 
-# Acknowledgements
 
-TBD
+# Acknowledgments
 
-# Source References 
-- 1
-- 2
-- 3
+- ack1...
+- ack2...
 
-# Future Features/Enhancements
 
-TBD
+# References for source material/inspiration
+
+- ref1...
+- ref2...
+
+
+# Future enhancements/features
+
+-TBD
